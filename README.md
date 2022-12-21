@@ -1,3 +1,3 @@
-Created portfolio of analyses on the following topics: income inequality, labor, education, and gender, using OECD and Eurostat data. Answered the question “To what extent is the amount spent on social protections indicative of economic equality?”.
+# Analysis of Sociological Data - Portfolio
 
-Merged and cleaned OECD datasets in order to analyze correlations and causality between social expenditure and the following independent variables: poverty gap, Gini coefficient for income inequality, and gender wage gap.
+This portfolio examines income inequality, labor, education, and gender using OECD and Eurostat data. It also explores the question, “To what extent is the amount spent on social protections indicative of economic equality?”. OECD datasets were merged and cleaned on Stata in order to analyze correlations and causality between social expenditure and the following independent variables: poverty gap, Gini coefficient for income inequality, and gender wage gap.
